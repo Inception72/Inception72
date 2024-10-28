@@ -1,0 +1,6 @@
+MermaidsequenceDiagram
+participant Attacker
+participant BotNet
+participant WebServer
+participant Firewall
+
